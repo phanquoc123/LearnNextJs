@@ -1,0 +1,12 @@
+.layout{
+    width: 100%;
+    flex:none;
+    background: red;
+
+}
+@media (min-width: 768px) {
+    .layout {
+        width: 16rem /* 256px */;
+    }
+}
+
