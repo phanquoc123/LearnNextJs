@@ -31,7 +31,7 @@ export default function Page() {
           {/* Add Hero Images Here */}
         </div>
       </div>
-       <div className={styles.shape} />
+
 
        {/* Add Hero Images Here */}
       <Image
