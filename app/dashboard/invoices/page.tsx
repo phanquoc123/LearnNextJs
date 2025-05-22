@@ -1,5 +1,5 @@
 export default function InvocePage(){
     return (
-        <h1>Trang InvocePage</h1>
+        <h2>Trang InvocePage</h2>
     )
 }
