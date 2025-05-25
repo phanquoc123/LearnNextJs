@@ -41,6 +41,8 @@ export function DeleteInvoice({ id }: { id: string }) {
         try {
           deleteInvoicesById();
         } catch (error) {
+          console.log(error);
+          
           throw new Error("Lỗi xóa");
         }
       });
