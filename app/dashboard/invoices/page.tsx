@@ -3,7 +3,7 @@ import { CreateInvoice } from "@/app/ui/invoices/buttons";
 import Search from "@/app/ui/search";
 import { Suspense } from "react";
 import InvoicesTable from "@/app/ui/invoices/table";
-import { InvoiceSkeleton, InvoicesTableSkeleton } from "@/app/ui/skeletons";
+import {InvoicesTableSkeleton } from "@/app/ui/skeletons";
 import Pagination from "@/app/ui/invoices/pagination";
 import { fetchInvoicesPages } from "@/app/lib/data";
 

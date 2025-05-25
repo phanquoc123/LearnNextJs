@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import { lusitana } from "../../ui/fonts";
 // import { fetchCardData, fetchLatestInvoices } from "../../lib/data";
 import RevenueChart from "../../ui/dashboard/revenue-chart";
